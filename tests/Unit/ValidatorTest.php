@@ -2,10 +2,10 @@
 
 namespace JeffOchoa\Tests\Unit;
 
-use JeffOchoa\Tests\Rules\isEqualToOneRule;
-use JeffOchoa\Tests\Rules\RuleReturnsKeyOnFailedTranslationRule;
-use JeffOchoa\Tests\TestCase;
-use JeffOchoa\ValidatorFactory;
+use etopian\Tests\Rules\isEqualToOneRule;
+use etopian\Tests\Rules\RuleReturnsKeyOnFailedTranslationRule;
+use etopian\Tests\TestCase;
+use etopian\ValidatorFactory;
 
 class ValidatorTest extends TestCase
 {
