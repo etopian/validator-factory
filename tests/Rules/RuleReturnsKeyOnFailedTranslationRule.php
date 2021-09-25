@@ -1,8 +1,8 @@
 <?php
-namespace JeffOchoa\Tests\Rules;
+namespace etopian\Tests\Rules;
 
 use Illuminate\Contracts\Validation\Rule;
-use JeffOchoa\ValidatorFactory;
+use etopian\ValidatorFactory;
 
 class RuleReturnsKeyOnFailedTranslationRule implements Rule
 {
