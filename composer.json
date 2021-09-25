@@ -2,7 +2,7 @@
     "name": "etopian/validator-factory",
     "description": "Standalone library to use Illuminate\\Validation package outside the Laravel framework.",
     "type": "library",
-    "version": "1.0.1",
+    "version": "2.0.0",
     "require": {
         "php": ">=8.0",
         "illuminate/filesystem": "^8.0|^9.0",
