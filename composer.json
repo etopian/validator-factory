@@ -1,5 +1,5 @@
 {
-    "name": "jeffochoa/validator-factory",
+    "name": "etopian/validator-factory",
     "description": "Standalone library to use Illuminate\\Validation package outside the Laravel framework.",
     "type": "library",
     "version": "1.0.1",
