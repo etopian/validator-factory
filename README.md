@@ -4,7 +4,7 @@ Standalone library to use the Illuminate\\Validation package outside the Laravel
 ## Installation
 From your terminal, run:
 ```bash
-$ composer require jeffochoa/validator-factory
+$ composer require etopian/validator-factory
 ```
 
 ## Usage
@@ -12,7 +12,7 @@ $ composer require jeffochoa/validator-factory
 You need to create a new instance of the `ValidatorFactory` class.
 
 ```php
-$factory = new JeffOchoa\ValidatorFactory();
+$factory = new etopian\ValidatorFactory();
 
 $validator = $factory->make($data = [], $rules);
 ```
