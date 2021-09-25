@@ -1,6 +1,6 @@
 <?php
 
-namespace JeffOchoa\Tests;
+namespace etopian\Tests;
 
 use Orchestra\Testbench\TestCase as OrchestraTestCase;
 
