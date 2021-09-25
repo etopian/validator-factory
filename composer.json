@@ -21,12 +21,12 @@
     ],
     "autoload": {
         "psr-4": {
-            "JeffOchoa\\": "src/"
+            "etopian\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "JeffOchoa\\Tests\\": "tests/"
+            "etopian\\Tests\\": "tests/"
         }
     },
     "config": {
