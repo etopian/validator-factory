@@ -1,6 +1,6 @@
 <?php
 
-namespace JeffOchoa;
+namespace etopian;
 
 use Illuminate\Filesystem\Filesystem;
 use Illuminate\Translation\FileLoader;
