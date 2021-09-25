@@ -1,6 +1,6 @@
 <?php
 
-namespace JeffOchoa\Tests\Unit;
+namespace etopian\Tests\Unit;
 
 use etopian\Tests\Rules\isEqualToOneRule;
 use etopian\Tests\Rules\RuleReturnsKeyOnFailedTranslationRule;
